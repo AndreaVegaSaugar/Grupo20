@@ -7,6 +7,12 @@ namespace Practica4MAP
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Bye();
+        }
+
+        static void Bye()
+        {
+            Console.WriteLine("Goodbye World!");
         }
     }
 }
