@@ -8,5 +8,10 @@ namespace Practica4MAP
         {
             Console.WriteLine("Hello World!");
         }
+
+        static void WhatsUp()
+        {
+            Console.WriteLine("Hey, what's up?");
+        }
     }
 }
