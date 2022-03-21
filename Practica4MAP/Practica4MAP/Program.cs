@@ -9,6 +9,8 @@ namespace Practica4MAP
             Console.WriteLine("Hello World!");
             Bye();
             WhatsUp();
+
+            //Modificacion de archivos diferentes en las copias locales
         }
 
         static void Bye()
