@@ -11,3 +11,4 @@ intentando error tipo 1
 Atte: Estudiante A
 
 Nueva funcionalidad añadida: customización de los colores del juego
+Nueva funcionalidad para rotar piezas con el ratón.
