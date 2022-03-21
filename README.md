@@ -6,3 +6,6 @@ Creando un conflicto jaja
 
 Haciendo más pruebas
 Atte: Estudiante B
+
+intentando error tipo 1
+Atte: Estudiante A
